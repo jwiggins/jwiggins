@@ -1,4 +1,7 @@
-### Hi there 👋
+#### Hi there 👋
+
+- 🔭 I’m currently working on custom scientific software applications @ [Enthought](https://github.com/enthought)
+- 👯 I’m looking to collaborate on [blend2d-python](https://github.com/jwiggins/blend2d-python) or [celiagg](https://github.com/celiagg/celiagg)
 
 <!--
 **jwiggins/jwiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
